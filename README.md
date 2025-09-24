@@ -125,8 +125,3 @@ This project is open-source and available under the **MIT License**.
 Feel free to use, modify, and distribute with proper attribution.
 
 ---
-
-## 👤 Author
-
-**Darshil Radadiya**  
-🔗 GitHub: [@darshilcodes]()
